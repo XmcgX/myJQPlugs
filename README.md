@@ -1,0 +1,2 @@
+# myJQPlugs
+Simple JQuery plugins
